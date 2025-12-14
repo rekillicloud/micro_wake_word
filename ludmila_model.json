@@ -1,0 +1,11 @@
+{
+  "type": "micro",
+  "wake_word": "Ludmila",
+  "author": "Rekill Robotics",
+  "model": "./ludmila.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.66,
+    "sliding_window_average_size": 10
+  }
+}
