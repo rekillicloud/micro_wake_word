@@ -3,6 +3,7 @@
   "wake_word": "Ludmila",
   "author": "Rekill Robotics",
   "model": "./ludmila.tflite",
+  "website": "https://www.kevinahrendt.com/",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
