@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "uta",
+  "wake_word": "Юта",
   "author": "Rekill Robotics",
   "model": "./uta.tflite",
   "website": "https://www.kevinahrendt.com/",
