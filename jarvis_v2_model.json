@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "Jarvis",
+  "author": "Rekill Robotics",
+  "model": "./jarvis_v2.tflite",
+  "website": "https://www.kevinahrendt.com/",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.66,
+    "sliding_window_average_size": 10
+  }
+}
