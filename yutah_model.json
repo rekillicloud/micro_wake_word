@@ -1,8 +1,8 @@
 {
   "type": "micro",
-  "wake_word": "yutah",
+  "wake_word": "uta",
   "author": "Rekill Robotics",
-  "model": "./yutah.tflite",
+  "model": "./uta.tflite",
   "website": "https://www.kevinahrendt.com/",
   "version": 1,
   "micro": {
